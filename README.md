@@ -1,6 +1,5 @@
-### Hi there 👋, my name is Stoffel
+### Hi there, my name is Stoffel
 #### Software Developer
-![Software Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I am a professional software developer, radio amateur, electronics enthusiast, sport shooter & reloader.
 
