@@ -8,7 +8,7 @@ Skills: C# / C / SQL / Python / Go / Assembly
 - I live in South Africa.
 - I started learning computer programming in school using assembly language. Then we learned Fortran and COBOL. At university, we used punch cards to write PL/1 programs!
 - I learned C in my first job. I fell in love with the power of the language. It was like coding in assembly, but with an editor ;-)
-- For a while, I programmed in [APL]<https://en.wikipedia.org/wiki/APL_syntax_and_symbols>. The finger gymnastics required to type the symbols could not begin to compare with the mental ones to create complex functions in a single line. 
+- For a while, I programmed in [APL](https://en.wikipedia.org/wiki/APL_syntax_and_symbols). The finger gymnastics required to type the symbols could not begin to compare with the mental ones to create complex functions in a single line. 
 - Moving on, I used Turbo Pascal. This was also my first experience working with databases. At the same time, I discovered dBase. (Does anyone even remember that?)
 - C was my tool for a few years, before moving to Visual Basic. Love it, or hate it, it was a very productive tool. This was my first job working in a large team in a corporate environment. It was quite a change in mindset to develop software in a team - this is experience which you cannot learn from bootcamps and certifications.
 - I got interested in Linux around 2000. I lost my virginity on Corel Linux on a 486, before settling on Debian. Another mindblowing experience watching a PC boot up in a terminal after working on Windows for a few years. I even got my Linux Level 1 certification.
