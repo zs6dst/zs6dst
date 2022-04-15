@@ -1,9 +1,8 @@
-# Hi, my name is Stoffel
+# Stoffel van Aswegen
 ## Software Developer
+### Professional software developer, radio amateur and electronics enthusiast.
 
-I am a professional software developer, radio amateur, electronics enthusiast, sport shooter & reloader.
-
-Skills: C# / C / SQL / Python / Go / Assembly
+### Skills: C# / C / SQL / Python / Go / Assembly
 
 - I live in South Africa.
 - I started learning computer programming in school using assembly language. Then we learned Fortran and COBOL. At university, we used punch cards to write PL/1 programs!
