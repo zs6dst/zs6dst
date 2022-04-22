@@ -1,5 +1,5 @@
 # Stoffel van Aswegen
-## Professional software developer, radio amateur and electronics enthusiast.
+## Professional software developer, radio amateur, electronics enthusiast
 
 ## Skills: C# / C / SQL / Python / Go / Assembly
 
