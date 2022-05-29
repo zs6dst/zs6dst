@@ -15,7 +15,7 @@
 - I am proud that I wrote one, **and only one** Java program in production. No COBOL ever.
 - A brief stint using C++ left me with psychological scars after realizing how little I really know about the language. I have abandoned all desire of ever going there again.
 - I had a baptism of fire with *bash* scripting on UNIX when I had to extract data from archives which took weeks. *bash* rocks!
-- For the last 15 years I have been using mainly C# professionally, writing backend services in the telecoms and banking industries. A large portion of this was to interface with external systems like SAP, web services and APIs.
+- For the last 15 years I have been using mainly C# professionally, developing backend services in the telecoms and banking industries. A large portion of this was to interface with external systems like SAP, web services and APIs.
 - I love Python. I also never want to write a system in it. 
 - Currently, I am learning Go. I **love** the simplicity and power which reminds me of C. I **really** hope that it becomes mainstream and that I can use it professionally.
 - I had a brief flirt about 20 years ago attempting to write assembly programs for PIC chips. Since Arduino, my first love for assembly and embedded systems was rekindled. My [FizzBuzz](https://github.com/zs6dst/FizzBuzz) project combined my fascination with 7-segment displays, logic chips, C and steampunk electronics in a novel [device](https://github.com/zs6dst/FizzBuzz/issues/2). Creating the [NightLamp](https://github.com/zs6dst/NightLamp) project entirely in assembler was a blast from the past!
